@@ -1,0 +1,14 @@
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\obj\Debug\netcoreapp3.1\Students.Repo.csprojAssemblyReference.cache
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\obj\Debug\netcoreapp3.1\Students.Repo.AssemblyInfoInputs.cache
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\obj\Debug\netcoreapp3.1\Students.Repo.AssemblyInfo.cs
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\obj\Debug\netcoreapp3.1\Students.Repo.csproj.CoreCompileInputs.cache
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\bin\Debug\netcoreapp3.1\Students.Repo.deps.json
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\bin\Debug\netcoreapp3.1\Students.Repo.dll
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\bin\Debug\netcoreapp3.1\Students.Repo.pdb
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\bin\Debug\netcoreapp3.1\Students.Data.dll
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\bin\Debug\netcoreapp3.1\Students.Services.dll
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\bin\Debug\netcoreapp3.1\Students.Data.pdb
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\bin\Debug\netcoreapp3.1\Students.Services.pdb
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\obj\Debug\netcoreapp3.1\Students.Repo.csproj.CopyComplete
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\obj\Debug\netcoreapp3.1\Students.Repo.dll
+C:\Users\letra\source\repos\StudentAPI\Students.Repo\obj\Debug\netcoreapp3.1\Students.Repo.pdb

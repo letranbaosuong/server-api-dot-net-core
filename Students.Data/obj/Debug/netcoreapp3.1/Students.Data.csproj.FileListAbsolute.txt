@@ -1,0 +1,9 @@
+C:\Users\letra\source\repos\StudentAPI\Students.Data\bin\Debug\netcoreapp3.1\Students.Data.deps.json
+C:\Users\letra\source\repos\StudentAPI\Students.Data\bin\Debug\netcoreapp3.1\Students.Data.dll
+C:\Users\letra\source\repos\StudentAPI\Students.Data\bin\Debug\netcoreapp3.1\Students.Data.pdb
+C:\Users\letra\source\repos\StudentAPI\Students.Data\obj\Debug\netcoreapp3.1\Students.Data.csprojAssemblyReference.cache
+C:\Users\letra\source\repos\StudentAPI\Students.Data\obj\Debug\netcoreapp3.1\Students.Data.AssemblyInfoInputs.cache
+C:\Users\letra\source\repos\StudentAPI\Students.Data\obj\Debug\netcoreapp3.1\Students.Data.AssemblyInfo.cs
+C:\Users\letra\source\repos\StudentAPI\Students.Data\obj\Debug\netcoreapp3.1\Students.Data.csproj.CoreCompileInputs.cache
+C:\Users\letra\source\repos\StudentAPI\Students.Data\obj\Debug\netcoreapp3.1\Students.Data.dll
+C:\Users\letra\source\repos\StudentAPI\Students.Data\obj\Debug\netcoreapp3.1\Students.Data.pdb
